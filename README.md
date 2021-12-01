@@ -1,2 +1,3 @@
 # Anova-From-Scratch-in-Python
-# Adding F test Copy from colabs
+# F test Scratch code 
+# One way ANOVA Scratch code
